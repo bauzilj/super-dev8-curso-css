@@ -1,4 +1,10 @@
-h2{
+/*CSS Reset*/
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
     /*
         Definir a cor do texto utilisando RGB (red, green, blue)
         R => 0..255
@@ -6,4 +12,20 @@ h2{
         B => 0..255
     */
     color: rgb(120, 192, 145);
+}
+
+div {
+    background-color: #004d8e;
+
+    a {
+        color: #ffffff;
+        text-decoration: none;
+        padding: 10px;
+
+    }
+
+    a:hover {
+        color: #f65500;
+    }
+
 }
