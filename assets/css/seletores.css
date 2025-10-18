@@ -1,0 +1,23 @@
+/*img{
+    width: 300px;
+}*/
+
+#the-office{
+    width: 100px;
+}
+
+#breaking-bad{
+    width: 150px;
+}
+
+#the-walking-dead{
+    width: 200px;
+}
+
+/* Classe: é uma forma de compatilhar estilização entre elementos
+<a class="imagens-mesmo-tamanho">Youtube</a>
+<button class = "imagen-mesmo-tamanho">Login</button>
+*/
+.imagens-mesmo-tamanho{
+    width: 250px;
+}
