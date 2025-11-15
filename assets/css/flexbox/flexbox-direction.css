@@ -120,3 +120,27 @@ div.section{
 .align-items-baseline{
     align-items: baseline;
 }
+
+.align-content-flex-start{
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+.align-content-center{
+    align-content: center;
+    flex-wrap: wrap;
+}
+.align-content-flex-end {
+    align-content: flex-end;
+    flex-wrap: wrap;
+}
+.align-content-stretch {
+    align-content: stretch;
+    flex-wrap: wrap;
+}
+.align-content-baseline {
+    align-content: baseline;
+    flex-wrap: wrap;
+}
+.ht{
+    height: 300px;
+}
